@@ -2,8 +2,6 @@
 
 A long-term Core Java revision folder.
 
-The lesson `checklist.md` files define the **minimum theory to study and programs to write**. They contain no theory explanations, answers, or source code. Listed program filenames guide the practice work; completed programs are kept in each chapter's `code/` directory.
-
 ## How to use this folder
 
 1. Work through the numbered chapters.
@@ -12,9 +10,6 @@ The lesson `checklist.md` files define the **minimum theory to study and program
 4. Check an item only after you can explain it or compile, run, and verify the program yourself.
 5. Complete the revision checks without referring to your notes; update the progress table.
 
-This is a minimum coverage guide, so add further examples and questions when you need them. It focuses on Java language and library behavior, with JUnit/Mockito and design practice. Keep algorithm drills in your DSA folder and Spring Boot work in its own folder.
-
-Choose and record your JDK and testing/build-tool versions before implementation. Check feature requirements for examples such as records, sealed types, pattern matching, and virtual threads.
 
 ## Progress
 
