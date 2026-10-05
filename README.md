@@ -26,4 +26,3 @@ A long-term Core Java revision folder.
 - [12 — Advanced Java](12-advanced-java/README.md)
 - [13 — Testing with JUnit and Mockito](13-testing/README.md)
 - [14 — Design Principles and Patterns](14-design-principles/README.md)
-- [15 — Interview Revision](15-interview-revision/README.md)
