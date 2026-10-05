@@ -1,6 +1,6 @@
 # Java Concepts Revision Map
 
-A long-term Core Java revision folder, following the checklist style of the Python/DSA refresher.
+A long-term Core Java revision folder.
 
 The lesson `checklist.md` files define the **minimum theory to study and programs to write**. They contain no theory explanations, answers, or source code. Listed program filenames guide the practice work; completed programs are kept in each chapter's `code/` directory.
 
